@@ -11,3 +11,4 @@ I'm Josh - a full-stack developer primarily in JavaScript, TypeScript and Luau.
 <code><img height="20" alt="html" src="https://skillicons.dev/icons?i=html"></code>
 <code><img height="20" alt="java" src="https://skillicons.dev/icons?i=java"></code>
 <code><img height="20" alt="lua" src="https://skillicons.dev/icons?i=lua"></code>
+<code><img height="20" alt="mysql" src="https://skillicons.dev/icons?i=mysql"></code>
